@@ -20,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"openai-edge": "^1.1.0"
+		"ai": "^2.1.17",
+		"openai-edge": "^1.2.0"
 	}
 }
